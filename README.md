@@ -15,29 +15,13 @@
 * [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
-#### `validator.js.js`
-##### Exported Values and Methods
+#### `validator.js`
+##### validator.isString, isNumber, isArray, isObject & isFunction
 
-###### `foo(thing) -> string`
-Usage Notes or examples
 
-###### `bar(array) -> array`
-Usage Notes or examples
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
   
 #### Tests
-* How do you run tests?
+* How do you run tests? validator.test.js
 * What assertions were made?
 * What assertions need to be / should be made?
 

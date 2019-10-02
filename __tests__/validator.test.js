@@ -2,6 +2,17 @@
 
 const validator = require('../lib/validator.js');
 
+
+const schema = {
+  fields: {
+    id: {type: 'string', required: true},
+    name: {required: true},
+    age: {type: 'number'},
+    children: { type: 'object', valueType: 'string'},
+
+  },
+};
+
 describe('validator module performs basic validation of', () => {
 
   // TODO: Make this series of tests less repetitive ... DRY it out

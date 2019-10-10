@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/meron-401n14/lab-01/pull/1)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/meron-401n14/lab-01/builds/131248885)
 
 
 #### Documentation
@@ -14,14 +14,14 @@
 
 ### Modules
 #### `validator.js`
-##### validator.isString, isNumber, isArray, isObject & isFunction
+
 
 
   
 #### Tests
-* How do you run tests? validator.test.js
+* npm test
 * What assertions were made?
 * What assertions need to be / should be made?
 
 #### UML
-Link to an image of the UML for your application and response to events
+

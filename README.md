@@ -24,4 +24,4 @@
 * What assertions need to be / should be made?
 
 #### UML
-
+* ![validator](validator.jpg)
